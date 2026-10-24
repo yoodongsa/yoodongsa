@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+<title id="title">YOODONG SA</title><desc id="desc">Backend development and AI experiments. Build, connect, learn.</desc>
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101728"/><stop offset="1" stop-color="#1a2540"/></linearGradient><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#2d3d59" stroke-width="0.6"/></pattern></defs>
+<rect width="1200" height="300" rx="24" fill="url(#bg)"/><rect width="1200" height="300" rx="24" fill="url(#grid)" opacity=".6"/>
+<rect x="64" y="54" width="196" height="28" rx="14" fill="#233e43"/><circle cx="81" cy="68" r="4" fill="#8be6bb"/><text x="95" y="73" fill="#b2f2d1" font-size="12" font-family="Arial,sans-serif" letter-spacing="2">BUILD · CONNECT · LEARN</text>
+<text x="60" y="158" fill="#f5f7fc" font-size="60" font-weight="700" font-family="Arial,sans-serif" letter-spacing="1">YOODONG SA</text>
+<text x="64" y="204" fill="#acb9d0" font-size="23" font-family="Arial,sans-serif">Backend development · AI experiments</text>
+<g fill="none" stroke="#8be6bb" stroke-width="2"><path d="M903 104h64v64h-64zM1031 168h64v64h-64z"/><path d="M967 136h96v32M935 168v32h96"/><circle cx="1063" cy="104" r="15"/><path d="M1063 119v17"/></g>
+<text x="64" y="260" fill="#70829e" font-size="12" font-family="monospace" letter-spacing="2">JAVA / SPRING / PYTHON / WEB</text>
+</svg>
